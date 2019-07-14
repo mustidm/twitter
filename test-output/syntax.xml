@@ -1,0 +1,14 @@
+<suite name="sutie1">
+<test name="test1">
+<groups>
+<run>
+<include name="Smoke"></include>
+
+</run>
+</groups>
+<classes>
+<class name="com.class3.deneme"/>
+</classes>
+
+</test>
+</suite>
